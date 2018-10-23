@@ -1,0 +1,3470 @@
+{
+    "average_nutritions": {
+        "201810": {
+            "calcium": "345",
+            "dietary_fiber": "4.2",
+            "energy": "789",
+            "fat": "28.6",
+            "iron": "2.4",
+            "protein": "24",
+            "salt_equivalent": "3.4",
+            "vitaminA": "204",
+            "vitaminB1": "0.61",
+            "vitaminB2": "0.5",
+            "vitaminC": "19"
+        }
+    },
+    "daily_menu": {
+        "20181001": {
+            "menu": [
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "ココアパン７0"
+                        }
+                    ],
+                    "name": "ココアパン（道基準）"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "牛乳２００"
+                        }
+                    ],
+                    "name": "牛乳"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "豚ももスライス"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "玉ねぎ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "にんじん"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "ダイストマト"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "ミニブロッコリー"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "枝豆"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "じゃがいも  "
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "おろしにんにく"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "ビーフシチューフレーク"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "ハヤシフレーク"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "ウスターソース"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "ローコンクチキン"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "トマトケチャップ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "トマトピューレ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "デミグラスソースフレーク"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "エスパニョールソース"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "さとう"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "有塩バター"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "オリーブ油"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "こしょう"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "生クリーム"
+                        }
+                    ],
+                    "name": "豚肉と野菜のハヤシ煮"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "テリヤキチキン"
+                        }
+                    ],
+                    "name": "ボ）テリヤキチキン"
+                }
+            ],
+            "nutritions": {
+                "calcium": "285",
+                "dietary_fiber": "3.7",
+                "energy": "762",
+                "fat": "36.5",
+                "iron": "1.3",
+                "protein": "30",
+                "salt_equivalent": "3.9",
+                "vitaminA": "193",
+                "vitaminB1": "0.67",
+                "vitaminB2": "0.57",
+                "vitaminC": "15"
+            }
+        },
+        "20181002": {
+            "menu": [
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "ごはん１００"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "学校給食用強化米"
+                        }
+                    ],
+                    "name": "ごはん"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "牛乳２００"
+                        }
+                    ],
+                    "name": "牛乳"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "木綿豆腐"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "にら "
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "豚挽肉"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "長ねぎ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "おろししょうが"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "おろしにんにく"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "栄養強化味噌"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "丸大豆しょうゆ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "テンメンジャン"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "清酒"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "オイスターソース"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "さとう"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "でん粉"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "清湯スープ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "豆板醤"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "サラダ油"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "クラッシュ大豆"
+                        }
+                    ],
+                    "name": "麻婆豆腐（ピリ辛：登）"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "春巻"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "揚げ油"
+                        }
+                    ],
+                    "name": "揚）パリパリ春巻き３５"
+                }
+            ],
+            "nutritions": {
+                "calcium": "470",
+                "dietary_fiber": "2.8",
+                "energy": "869",
+                "fat": "31.3",
+                "iron": "3.7",
+                "protein": "31",
+                "salt_equivalent": "2.9",
+                "vitaminA": "110",
+                "vitaminB1": "0.97",
+                "vitaminB2": "0.51",
+                "vitaminC": "4"
+            }
+        },
+        "20181003": {
+            "menu": [
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "メロンパン９０"
+                        }
+                    ],
+                    "name": "メロンパン９０"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "牛乳２００"
+                        }
+                    ],
+                    "name": "牛乳"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "玉ねぎ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "にんじん"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "アルファベットマカロニ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "じゃがいも　サイコロ切　冷凍"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "乾燥パセリ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "ぶなしめじ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "塩"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "粒こしょう"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "ベーコンスライス"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "ホールコーン"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "チキンコンソメ　ベースタイプ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "ローコンクチキン"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "オリーブ油"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "おろしにんにく"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "おろししょうが"
+                        }
+                    ],
+                    "name": "ＡＢＣスープ"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "おろしハンバーグ"
+                        }
+                    ],
+                    "name": "ボ）おろしハンバーグ６０"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "ヨーグルト"
+                        }
+                    ],
+                    "name": "ヨーグルト"
+                }
+            ],
+            "nutritions": {
+                "calcium": "449",
+                "dietary_fiber": "2.9",
+                "energy": "752",
+                "fat": "34.1",
+                "iron": "2.8",
+                "protein": "21",
+                "salt_equivalent": "2.9",
+                "vitaminA": "175",
+                "vitaminB1": "0.19",
+                "vitaminB2": "0.42",
+                "vitaminC": "12"
+            }
+        },
+        "20181004": {
+            "menu": [
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "２２０ｇスパゲティ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "豚挽肉"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "玉ねぎ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "にんじん"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "ミートソース・だいず入り"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "トマトケチャップ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "ダイストマト"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "ウスターソース"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "おろしにんにく"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "三温糖"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "乾燥パセリ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "粉チーズ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "カレー粉"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "丸大豆しょうゆ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "有塩バター"
+                        }
+                    ],
+                    "name": "カレーミートスパゲティー（H３０〜）"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "牛乳２００"
+                        }
+                    ],
+                    "name": "牛乳"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "ささみチーズフライ４０"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "揚げ油"
+                        }
+                    ],
+                    "name": "揚）ささみチーズフライ"
+                }
+            ],
+            "nutritions": {
+                "calcium": "301",
+                "dietary_fiber": "6.2",
+                "energy": "832",
+                "fat": "29.7",
+                "iron": "2.4",
+                "protein": "30",
+                "salt_equivalent": "4.9",
+                "vitaminA": "280",
+                "vitaminB1": "0.56",
+                "vitaminB2": "0.49",
+                "vitaminC": "8"
+            }
+        },
+        "20181005": {
+            "menu": [
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "ごはん１００"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "学校給食用強化米"
+                        }
+                    ],
+                    "name": "ごはん"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "牛乳２００"
+                        }
+                    ],
+                    "name": "牛乳"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "若鶏むねダイス"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "乱切にんじん"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "乱切ごぼう"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "だいこん"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "れんこん水煮 イチョウ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "たけのこ乱切り水煮"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "こんにゃく"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "だいず・ゆで・冷凍"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "枝豆"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "なると４５０"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "さとう"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "かつおエキス"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "丸大豆しょうゆ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "本みりん"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "清酒"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "サラダ油"
+                        }
+                    ],
+                    "name": "根菜のコロコロ煮"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "白身魚フライ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "揚げ油"
+                        }
+                    ],
+                    "name": "揚）白身魚フライ４０"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "麦茶"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "豆乳"
+                        }
+                    ],
+                    "name": "代替飲み物"
+                }
+            ],
+            "nutritions": {
+                "calcium": "365",
+                "dietary_fiber": "5.3",
+                "energy": "831",
+                "fat": "21.8",
+                "iron": "2.3",
+                "protein": "32",
+                "salt_equivalent": "2.3",
+                "vitaminA": "236",
+                "vitaminB1": "0.6",
+                "vitaminB2": "0.53",
+                "vitaminC": "10"
+            }
+        },
+        "20181009": {
+            "menu": [
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "コッペパン１０１"
+                        }
+                    ],
+                    "name": "コッペパン"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "牛乳２００"
+                        }
+                    ],
+                    "name": "牛乳"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "若鶏ももダイス"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "ぶなしめじ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "枝豆"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "冷凍マカロニ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "玉ねぎ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "ダイストマト"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "にんじん"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "ミニブロッコリー"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "サラダ油"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "ワイン赤"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "さとう"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "こしょう"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "トマト煮込み用シーズニング"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "ウスターソース"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "チキンコンソメ　ベースタイプ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "トマトソース"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "トマトピューレ"
+                        }
+                    ],
+                    "name": "鶏肉とペンネのトマト煮"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "鮭メンチカツ　マヨネーズ味４０ｇ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "揚げ油"
+                        }
+                    ],
+                    "name": "揚）鮭メンチカツ（マヨネーズ）"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "いちごジャムミックス"
+                        }
+                    ],
+                    "name": "いちごジャム（バラ）"
+                }
+            ],
+            "nutritions": {
+                "calcium": "302",
+                "dietary_fiber": "5.4",
+                "energy": "777",
+                "fat": "29.2",
+                "iron": "1.7",
+                "protein": "28",
+                "salt_equivalent": "3.9",
+                "vitaminA": "259",
+                "vitaminB1": "0.31",
+                "vitaminB2": "0.54",
+                "vitaminC": "19"
+            }
+        },
+        "20181010": {
+            "menu": [
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "ごはん１００"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "学校給食用強化米"
+                        }
+                    ],
+                    "name": "ごはん"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "牛乳２００"
+                        }
+                    ],
+                    "name": "牛乳"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "豚細切もも"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "さつま揚げ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "しらたき"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "さとう"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "ごま　いり"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "切りごぼう"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "だいこん"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "にんじん"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "ピーマン"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "ごま油"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "一味とうがらし"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "かつおエキス"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "サラダ油"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "丸大豆しょうゆ"
+                        }
+                    ],
+                    "name": "五目きんぴら"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "さんま味噌煮"
+                        }
+                    ],
+                    "name": "ボ）さんま味噌煮"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "ブルーベリーゼリー"
+                        }
+                    ],
+                    "name": "ブルーベリーゼリー"
+                }
+            ],
+            "nutritions": {
+                "calcium": "435",
+                "dietary_fiber": "5.4",
+                "energy": "788",
+                "fat": "25",
+                "iron": "3.7",
+                "protein": "23",
+                "salt_equivalent": "2.1",
+                "vitaminA": "289",
+                "vitaminB1": "0.57",
+                "vitaminB2": "0.47",
+                "vitaminC": "46"
+            }
+        },
+        "20181011": {
+            "menu": [
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "コッペパン１０１"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "三温糖・パン加工用"
+                        }
+                    ],
+                    "name": "糖蜜パン"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "牛乳２００"
+                        }
+                    ],
+                    "name": "牛乳"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "じゃがいも  "
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "若鶏むねスライス"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "玉ねぎ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "ぶなしめじ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "国産きのこミックス"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "有塩バター"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "ベシャメルソース"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "乾燥パセリ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "ほうれんそう　カット冷凍"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "とろけるクリームシチューフレーク"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "調理用牛乳１０ｋｇ入り"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "脱脂粉乳"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "ローコンクチキン"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "チキンコンソメ　ベースタイプ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "こしょう"
+                        }
+                    ],
+                    "name": "きのこのホワイトシチュー"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "ビッグ肉団子・ケチャップ味"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "ビッグ肉団子・ケチャップ味"
+                        }
+                    ],
+                    "name": "ボ）ビッグ肉団子ケチャップ味２ヶ"
+                }
+            ],
+            "nutritions": {
+                "calcium": "352",
+                "dietary_fiber": "4.5",
+                "energy": "836",
+                "fat": "32.3",
+                "iron": "6",
+                "protein": "25",
+                "salt_equivalent": "4.2",
+                "vitaminA": "221",
+                "vitaminB1": "0.32",
+                "vitaminB2": "0.61",
+                "vitaminC": "16"
+            }
+        },
+        "20181012": {
+            "menu": [
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "ごはん１００"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "わかめごはんの素"
+                        }
+                    ],
+                    "name": "わかめごはん"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "牛乳２００"
+                        }
+                    ],
+                    "name": "牛乳"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "豚ももスライス"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "すりごま"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "さといも　冷凍"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "にんじん"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "長ねぎ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "小松菜　冷凍"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "だいこん"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "ごま油"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "かつおエキス"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "栄養強化味噌"
+                        }
+                    ],
+                    "name": "ごま味噌汁"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "ポテトコロッケミート"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "揚げ油"
+                        }
+                    ],
+                    "name": "揚）ポテトコロッケ"
+                }
+            ],
+            "nutritions": {
+                "calcium": "359",
+                "dietary_fiber": "3.2",
+                "energy": "770",
+                "fat": "27.5",
+                "iron": "3.6",
+                "protein": "19",
+                "salt_equivalent": "3.3",
+                "vitaminA": "271",
+                "vitaminB1": "0.6",
+                "vitaminB2": "0.58",
+                "vitaminC": "20"
+            }
+        },
+        "20181015": {
+            "menu": [
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "コッペパン１０１"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "ドライアップル"
+                        }
+                    ],
+                    "name": "りんごパン"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "牛乳２００"
+                        }
+                    ],
+                    "name": "牛乳"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "ベーコン・キューブ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "ポークウインナースキンレス"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "キャベツ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "じゃがいも  "
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "だいこん"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "玉ねぎ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "にんじん"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "ミニブロッコリー"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "ぶなしめじ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "塩"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "ブイヨン"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "こしょう"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "ホールコーン"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "チキンコンソメ　ベースタイプ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "ローコンクチキン"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "ワイン白"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "オリーブ油"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "おろししょうが"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "おろしにんにく"
+                        }
+                    ],
+                    "name": "ポトフ"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "クリスピーチキン"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "揚げ油"
+                        }
+                    ],
+                    "name": "揚）クリスピーフライドチキン"
+                }
+            ],
+            "nutritions": {
+                "calcium": "286",
+                "dietary_fiber": "3.8",
+                "energy": "752",
+                "fat": "32.6",
+                "iron": "0.8",
+                "protein": "27",
+                "salt_equivalent": "4.1",
+                "vitaminA": "189",
+                "vitaminB1": "0.34",
+                "vitaminB2": "0.45",
+                "vitaminC": "28"
+            }
+        },
+        "20181016": {
+            "menu": [
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "ごはん１００"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "学校給食用強化米"
+                        }
+                    ],
+                    "name": "ごはん"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "牛乳２００"
+                        }
+                    ],
+                    "name": "牛乳"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "豚ももスライス"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "にら "
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "三温糖"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "ごま白"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "キャベツ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "玉ねぎ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "にんじん"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "ぶなしめじ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "ごま油"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "マイルドキムチ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "絹厚揚げ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "テンメンジャン"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "丸大豆しょうゆ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "清酒"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "豆板醤"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "でん粉"
+                        }
+                    ],
+                    "name": "豚キムチ丼（H30〜）"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "肉団子"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "肉団子"
+                        }
+                    ],
+                    "name": "ボ）肉団子（甘酢あん）＠15g×2"
+                }
+            ],
+            "nutritions": {
+                "calcium": "290",
+                "dietary_fiber": "3.5",
+                "energy": "709",
+                "fat": "21.1",
+                "iron": "2.6",
+                "protein": "23",
+                "salt_equivalent": "2.8",
+                "vitaminA": "191",
+                "vitaminB1": "0.94",
+                "vitaminB2": "0.48",
+                "vitaminC": "29"
+            }
+        },
+        "20181017": {
+            "menu": [
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "コッペパン１０１"
+                        }
+                    ],
+                    "name": "コッペパン"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "牛乳２００"
+                        }
+                    ],
+                    "name": "牛乳"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "玉ねぎ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "にんじん"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "ホールコーン"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "ベーコンスライス"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "調理用牛乳１０ｋｇ入り"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "生クリーム"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "コーンクリーム"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "ベシャメルソース"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "塩"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "ローコンクチキン"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "有塩バター"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "コーンペースト"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "野菜ベース"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "乾燥パセリ"
+                        }
+                    ],
+                    "name": "野菜入りポタージュ"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "野菜コロッケ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "揚げ油"
+                        }
+                    ],
+                    "name": "揚）野菜コロッケ　50g"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "チョコクリーム"
+                        }
+                    ],
+                    "name": "チョコクリーム（バラ）"
+                }
+            ],
+            "nutritions": {
+                "calcium": "430",
+                "dietary_fiber": "5.2",
+                "energy": "883",
+                "fat": "36.6",
+                "iron": "1.3",
+                "protein": "22",
+                "salt_equivalent": "3.8",
+                "vitaminA": "186",
+                "vitaminB1": "0.3",
+                "vitaminB2": "0.61",
+                "vitaminC": "6"
+            }
+        },
+        "20181018": {
+            "menu": [
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "ごはん１００"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "豚ももスライス"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "玉ねぎ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "にんじん"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "ミニブロッコリー"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "マッシュルーム　"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "ダイストマト"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "トマトピューレ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "おろしにんにく"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "サラダ油"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "エスパニョールソース"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "有塩バター"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "ハヤシフレーク"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "ビーフシチューフレーク"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "ワイン赤"
+                        }
+                    ],
+                    "name": "ハヤシライス"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "牛乳２００"
+                        }
+                    ],
+                    "name": "牛乳"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "ブロックゼリーマスカット"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "マスカットダイスゼリー"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "ナタデココ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "ミックスドフルーツ"
+                        }
+                    ],
+                    "name": "マスカットゼリーのフルーツ和え"
+                }
+            ],
+            "nutritions": {
+                "calcium": "288",
+                "dietary_fiber": "4.9",
+                "energy": "820",
+                "fat": "21.8",
+                "iron": "3",
+                "protein": "20",
+                "salt_equivalent": "2.8",
+                "vitaminA": "264",
+                "vitaminB1": "0.5",
+                "vitaminB2": "0.43",
+                "vitaminC": "49"
+            }
+        },
+        "20181019": {
+            "menu": [
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "ごはん１００"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "学校給食用強化米"
+                        }
+                    ],
+                    "name": "ごはん"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "牛乳２００"
+                        }
+                    ],
+                    "name": "牛乳"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "さといも　冷凍"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "牛スライス"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "こんにゃく"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "生揚げ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "長ねぎ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "ぶなしめじ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "さとう"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "かつおエキス"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "丸大豆しょうゆ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "清酒"
+                        }
+                    ],
+                    "name": "いも煮（H30郷土料理）"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "メンチカツ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "揚げ油"
+                        }
+                    ],
+                    "name": "揚）メンチカツ"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "国産さくらんぼゼリー50"
+                        }
+                    ],
+                    "name": "国産さくらんぼゼリー"
+                }
+            ],
+            "nutritions": {
+                "calcium": "422",
+                "dietary_fiber": "5.6",
+                "energy": "825",
+                "fat": "24.9",
+                "iron": "3.9",
+                "protein": "24",
+                "salt_equivalent": "2.3",
+                "vitaminA": "81",
+                "vitaminB1": "0.64",
+                "vitaminB2": "0.42",
+                "vitaminC": "16"
+            }
+        },
+        "20181022": {
+            "menu": [
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "ごはん１００"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "学校給食用強化米"
+                        }
+                    ],
+                    "name": "ごはん"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "牛乳２００"
+                        }
+                    ],
+                    "name": "牛乳"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "さつまいも "
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "にんじん"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "つきこんにゃく"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "絹ごし豆腐"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "長ねぎ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "栄養強化味噌"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "若鶏むねスライス"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "かつおエキス"
+                        }
+                    ],
+                    "name": "さつま汁"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "豚ももスライス"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "にんじん"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "玉ねぎ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "もやし"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "焼き肉のたれ"
+                        }
+                    ],
+                    "name": "焼き肉風＠（H30〜）"
+                }
+            ],
+            "nutritions": {
+                "calcium": "323",
+                "dietary_fiber": "2.8",
+                "energy": "710",
+                "fat": "18.1",
+                "iron": "2.9",
+                "protein": "28",
+                "salt_equivalent": "2.8",
+                "vitaminA": "279",
+                "vitaminB1": "1.16",
+                "vitaminB2": "0.62",
+                "vitaminC": "14"
+            }
+        },
+        "20181023": {
+            "menu": [
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "コッペパン１０１"
+                        }
+                    ],
+                    "name": "コッペパン"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "牛乳２００"
+                        }
+                    ],
+                    "name": "牛乳"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "ホールコーン"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "玉ねぎ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "にんじん"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "枝豆"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "ミニブロッコリー"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "ベーコンスライス"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "ポテトニョッキ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "調理用牛乳１０ｋｇ入り"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "塩"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "有塩バター"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "こしょう"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "生クリーム"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "クリームコーン"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "コーンクリーム"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "チキンコンソメ　ベースタイプ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "とろけるクリームシチューフレーク"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "ベシャメルソース"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "ローコンクチキン"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "乾燥パセリ"
+                        }
+                    ],
+                    "name": "ニョッキのクリーム煮"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "オムレツ"
+                        }
+                    ],
+                    "name": "ボ）プレーンオムレツ"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "りんごジャム"
+                        }
+                    ],
+                    "name": "りんごジャム（バラ）"
+                }
+            ],
+            "nutritions": {
+                "calcium": "340",
+                "dietary_fiber": "3.8",
+                "energy": "807",
+                "fat": "31.4",
+                "iron": "1.1",
+                "protein": "22",
+                "salt_equivalent": "4.2",
+                "vitaminA": "244",
+                "vitaminB1": "0.24",
+                "vitaminB2": "0.59",
+                "vitaminC": "10"
+            }
+        },
+        "20181024": {
+            "menu": [
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "ごはん１００"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "学校給食用強化米"
+                        }
+                    ],
+                    "name": "ごはん"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "牛乳２００"
+                        }
+                    ],
+                    "name": "牛乳"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "豚ももスライス"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "キャベツ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "玉ねぎ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "絹厚揚げ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "にんじん"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "ピーマン"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "おろししょうが"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "おろしにんにく"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "さとう"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "サラダ油"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "赤みそ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "清酒"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "テンメンジャン"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "トウバンジャン"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "栄養強化味噌"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "丸大豆しょうゆ"
+                        }
+                    ],
+                    "name": "キャベツと豚肉の味噌炒め"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "ちくわ磯辺揚げ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "揚げ油"
+                        }
+                    ],
+                    "name": "揚）ちくわ磯辺揚げ"
+                }
+            ],
+            "nutritions": {
+                "calcium": "287",
+                "dietary_fiber": "2.2",
+                "energy": "742",
+                "fat": "25.1",
+                "iron": "2.1",
+                "protein": "24",
+                "salt_equivalent": "2.3",
+                "vitaminA": "150",
+                "vitaminB1": "1.06",
+                "vitaminB2": "0.52",
+                "vitaminC": "35"
+            }
+        },
+        "20181025": {
+            "menu": [
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "ラーメン220ｇ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "ホールコーン"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "にんじん"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "長ねぎ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "キャベツ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "なると４５０"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "もやし"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "きざみチャーシュー"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "ごま油"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "粒こしょう"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "がらスープ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "北の味噌ラーメンスープ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "おろしにんにく"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "おろししょうが"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "豆板醤"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "テンメンジャン"
+                        }
+                    ],
+                    "name": "辛味噌ラーメン（袋麺）"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "牛乳２００"
+                        }
+                    ],
+                    "name": "牛乳"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "肉シュウマイ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "肉シュウマイ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "揚げ油"
+                        }
+                    ],
+                    "name": "揚）肉シューマイ"
+                }
+            ],
+            "nutritions": {
+                "calcium": "328",
+                "dietary_fiber": "5.6",
+                "energy": "758",
+                "fat": "28.4",
+                "iron": "0.8",
+                "protein": "23",
+                "salt_equivalent": "4.9",
+                "vitaminA": "119",
+                "vitaminB1": "0.14",
+                "vitaminB2": "0.33",
+                "vitaminC": "13"
+            }
+        },
+        "20181026": {
+            "menu": [
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "麦"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "ごはん１００"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "豚ももスライス"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "じゃがいも  "
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "玉ねぎ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "にんじん"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "おろしにんにく"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "生クリーム"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "ウスターソース"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "有塩バター"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "ローコンクチキン"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "給食用マイルドカレーフレーク"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "カレーフレークNB"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "カレーフレークスペシャル"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "バーモントフレーク"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "横濱レトロカリー甘口"
+                        }
+                    ],
+                    "name": "★ポークカレー（麦ごはん）小学校用"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "牛乳２００"
+                        }
+                    ],
+                    "name": "牛乳"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "洋なし缶"
+                        }
+                    ],
+                    "name": "洋なし缶"
+                }
+            ],
+            "nutritions": {
+                "calcium": "276",
+                "dietary_fiber": "3.5",
+                "energy": "861",
+                "fat": "18.8",
+                "iron": "1.4",
+                "protein": "22",
+                "salt_equivalent": "2.8",
+                "vitaminA": "173",
+                "vitaminB1": "0.69",
+                "vitaminB2": "0.43",
+                "vitaminC": "21"
+            }
+        },
+        "20181029": {
+            "menu": [
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "バターロール40ｇ×2ヶ"
+                        }
+                    ],
+                    "name": "バターロール（４０g×２ヶ）"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "牛乳２００"
+                        }
+                    ],
+                    "name": "牛乳"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "うずら卵水煮"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "ベーコンスライス"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "にんじん"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "玉ねぎ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "キャベツ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "ほうれんそう　カット冷凍"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "ローコンクチキン"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "チキンコンソメ　ベースタイプ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "塩"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "粒こしょう"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "おろししょうが"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "おろしにんにく"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "オリーブ油"
+                        }
+                    ],
+                    "name": "ベーコンとうずら卵のスープ"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "かぼちゃ型ハンバーグ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "揚げ油"
+                        }
+                    ],
+                    "name": "揚）かぼちゃ型ハンバーグ"
+                }
+            ],
+            "nutritions": {
+                "calcium": "345",
+                "dietary_fiber": "4.2",
+                "energy": "758",
+                "fat": "38.6",
+                "iron": "2.1",
+                "protein": "27",
+                "salt_equivalent": "4.1",
+                "vitaminA": "216",
+                "vitaminB1": "0.64",
+                "vitaminB2": "0.66",
+                "vitaminC": "13"
+            }
+        },
+        "20181030": {
+            "menu": [
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "ごはん１００"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "学校給食用強化米"
+                        }
+                    ],
+                    "name": "ごはん"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "牛乳２００"
+                        }
+                    ],
+                    "name": "牛乳"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "だいこん"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "生揚げ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "Ca豆腐ボール"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "とりつくねボール"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "こんにゃく"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "さとう"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "むすび昆布冷凍"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "乱切にんじん"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "うずら卵水煮"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "丸大豆しょうゆ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "本みりん"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "かつおエキス"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "白しょうゆ"
+                        }
+                    ],
+                    "name": "おでん"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "焼きビーフン"
+                        }
+                    ],
+                    "name": "ボ）ビーフン"
+                }
+            ],
+            "nutritions": {
+                "calcium": "382",
+                "dietary_fiber": "2.7",
+                "energy": "751",
+                "fat": "23.7",
+                "iron": "1.9",
+                "protein": "20",
+                "salt_equivalent": "2.9",
+                "vitaminA": "152",
+                "vitaminB1": "0.56",
+                "vitaminB2": "0.43",
+                "vitaminC": "7"
+            }
+        },
+        "20181031": {
+            "menu": [
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "ソフトフランス７０"
+                        }
+                    ],
+                    "name": "ソフトフランスパン"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "牛乳２００"
+                        }
+                    ],
+                    "name": "牛乳"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "豚ももスライス"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "生クリーム"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "じゃがいも  "
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "さとう"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "枝豆"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "玉ねぎ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "ダイストマト"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "にんじん"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "ミニブロッコリー"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "サラダ油"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "おろしにんにく"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "塩"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "黄",
+                            "name": "有塩バター"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "ブイヨン"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "緑",
+                            "name": "トマトピューレ"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "こしょう"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "デミグラスソースフレーク"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "ハヤシフレーク"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "ビーフシチューフレーク"
+                        },
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "",
+                            "name": "ローコンクチキン"
+                        }
+                    ],
+                    "name": "野菜のデミグラスソース煮"
+                },
+                {
+                    "ingredients": [
+                        {
+                            "allergens": [],
+                            "contaminations": [],
+                            "group": "赤",
+                            "name": "ｱﾝｻﾝﾌﾞﾙｴｯｸﾞ40ｇ　"
+                        }
+                    ],
+                    "name": "ボ）ｱﾝｻﾝﾌﾞﾙｴｯｸﾞ40ｇ"
+                }
+            ],
+            "nutritions": {
+                "calcium": "288",
+                "dietary_fiber": "5.2",
+                "energy": "777",
+                "fat": "42",
+                "iron": "1.6",
+                "protein": "24",
+                "salt_equivalent": "4.7",
+                "vitaminA": "231",
+                "vitaminB1": "1.56",
+                "vitaminB2": "0.53",
+                "vitaminC": "41"
+            }
+        }
+    }
+}
